@@ -13,3 +13,16 @@ I built it as follows:
 
 The idea is to use some custom CSS to replace the default HR with
 (a cropped version of) this on my website.
+
+The equations are as follows:
+
+```
+  exp(-2/3 |x|) sin(x)
+- exp(-2/3 |x|) sin(x)
+  exp(-2/3 |x|) sin(x - pi/4)
+- exp(-2/3 |x|) sin(x + pi/4)
+- exp(-2/3 |x|) cos(x)
+```
+
+There is some symmetry going on there but I can't really remember the
+intuition since it was a while ago.
