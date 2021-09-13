@@ -48,7 +48,7 @@ Embedding the rule with CSS
 The idea is to use some custom CSS to replace the default HR with
 a cropped version of this graphic.
 
-The SV is added as a pseudoelement and so it's not trivial to set the colour.
+The SVG is added as a pseudoelement and so it's not trivial to set the colour.
 For grayscale, the following hack works:
 
 ```
