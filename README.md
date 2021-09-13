@@ -24,5 +24,11 @@ The equations are as follows:
 - exp(-2/3 |x|) cos(x)
 ```
 
-There is some symmetry going on there but I can't really remember the
-intuition since it was a while ago.
+There is some symmetry going on there, the phases of these sinusoids are
+spaced around a circle (missing one or more spots)... or something like that,
+I can't remember since it was some time ago.
+
+Anyway here's how it looks on the draft website:
+
+![](light.png)
+![](dark.png)
